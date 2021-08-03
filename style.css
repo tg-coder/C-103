@@ -1,0 +1,29 @@
+body
+{
+    background-color: #beb1f2;
+    color: cornflowerblue;
+}
+.heading 
+{
+    width:80%;
+    font-size: 22px;
+    border-radius: 0%;
+}
+.name_of_objects
+{
+    color: #008080;
+}
+#camera
+{
+    border: 2px dashed black;
+    width: 300px;
+    height: 300px;
+}
+#result_object_name
+{
+    color: #008080;
+}
+#result_object_accuracy
+{
+    color: #008080;
+}
